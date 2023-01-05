@@ -2577,8 +2577,8 @@
 
 		#main > section {
 			border-top: solid 2px #efefef;
-			margin: 4em 0 0 0;
-			padding: 4em 0 0 0;
+			margin: 1em 0 0 0;
+			padding: 2em 0 0 0;
 		}
 
 			#main > section:first-child {
